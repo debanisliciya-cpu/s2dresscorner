@@ -1,0 +1,133 @@
+{
+  "currency": "INR",
+  "products": {
+    "The Sunday Midi": {
+      "optionType": "size",
+      "basePrice": 6630,
+      "options": {
+        "XS": 6430,
+        "S": 6530,
+        "M": 6630,
+        "L": 6730,
+        "XL": 6830
+      }
+    },
+    "The Rosalie": {
+      "optionType": "size",
+      "basePrice": 1909,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 0,
+        "XL": 1909
+      }
+    },
+    "The Daydream": {
+      "optionType": "size",
+      "basePrice": 1859,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 1800,
+        "XL": 1859
+      }
+    },
+    "The First Dance": {
+      "optionType": "size",
+      "basePrice": 1885,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 0,
+        "XL": 0,
+        "XLL": 1885
+      }
+    },
+    "The Market Stroll": {
+      "optionType": "size",
+      "basePrice": 1309,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 0,
+        "XL": 0,
+        "XLL": 1309
+      }
+    },
+    "The Berry Bloom": {
+      "optionType": "material",
+      "basePrice": 1200,
+      "options": {
+        "material": 1200
+      }
+    },
+    "The Ivory Garden": {
+      "optionType": "size",
+      "basePrice": 1609,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 0,
+        "XL": 1609
+      }
+    },
+    "The Floral Day": {
+      "optionType": "size",
+      "basePrice": 1609,
+      "options": {
+        "XS": 0,
+        "S": 0,
+        "M": 0,
+        "L": 0,
+        "XL": 1609
+      }
+    },
+    "The Emerald Evening": {
+      "optionType": "material",
+      "basePrice": 1250,
+      "options": {
+        "material": 1250
+      }
+    },
+    "The Mint Muse": {
+      "optionType": "material",
+      "basePrice": 1350,
+      "options": {
+        "material": 1350
+      }
+    },
+    "The Golden Hour": {
+      "optionType": "material",
+      "basePrice": 1609,
+      "options": {
+        "material": 1609
+      }
+    },
+    "The Midnight Muse": {
+      "optionType": "material",
+      "basePrice": 1609,
+      "options": {
+        "material": 1609
+      }
+    },
+    "The Teal Garden": {
+      "optionType": "material",
+      "basePrice": 1609,
+      "options": {
+        "material": 1609
+      }
+    },
+    "The Sapphire Story": {
+      "optionType": "material",
+      "basePrice": 1350,
+      "options": {
+        "material": 1350
+      }
+    }
+  }
+}
